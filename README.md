@@ -1,6 +1,6 @@
 # Hi, I'm Amirali 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&lines=I+am+a+Backend+and+software+developer.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=2000&duration=5000&&lines=I+am+a+Backend+and+software+developer.)
 
 ## Live widget
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" alt="github-stats"/>
