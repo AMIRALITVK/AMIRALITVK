@@ -6,4 +6,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" alt="github-stats"/>
 
 ## Interactive profile
-[Check my portfolio website](https://amiralitvk.github.io) 🔗
+[Check my portfolio website](https://amiralitvk.github.io/portfolio) 🔗
